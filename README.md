@@ -19,4 +19,9 @@ Comparison result with the dl-based baselines (recorded in the paper):
 <img width="334" alt="rq1" src="https://github.com/shenhtrick/Guard2Vul/assets/43394667/d916bede-7bd5-496d-9571-38238fbdc86c">
 
 # Dataset
+token number:
 <img width="334" alt="rq1" src="https://github.com/shenhtrick/Guard2Vul/assets/43394667/b6b9b0ab-ba93-4d57-bc8f-d5873dff7df1">
+train token number:
+<img width="334" alt="rq1" src="https://github.com/shenhtrick/Guard2Vul/assets/43394667/39272384-e292-4a99-b408-08918b0101bc">
+token number after GraphSMOTE:
+<img width="334" alt="rq1" src="https://github.com/shenhtrick/Guard2Vul/assets/43394667/6376461e-425f-49a9-8af5-084183c91dc7">
