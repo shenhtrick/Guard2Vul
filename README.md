@@ -17,4 +17,6 @@ This is the main function, which includes the parameter definition of the model 
 Comparison result with the dl-based baselines (recorded in the paper):
 
 <img width="334" alt="rq1" src="https://github.com/shenhtrick/Guard2Vul/assets/43394667/d916bede-7bd5-496d-9571-38238fbdc86c">
-(img width="334" alt="rq1" src=https://github.com/shenhtrick/Guard2Vul/assets/43394667/f8f0c7a5-f98b-4351-a9a4-56f33d9e57e4)
+
+# Dataset
+<img width="334" alt="rq1" src="https://github.com/shenhtrick/Guard2Vul/assets/43394667/b6b9b0ab-ba93-4d57-bc8f-d5873dff7df1">
